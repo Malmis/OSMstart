@@ -22,9 +22,8 @@ Lite förenklat kan man säga att du kommer igång med kartritningen genom dessa
 På den här webbplatsen ska vi lära dig mer om vart och ett av dessa steg, så att du sen på egen hand ska kunna ändra och lägga till i kartan.
 
 
-## Vi bakom webbplatsen
-Vi är några stycken som hjälpts åt med att ta fram denna instruktion:
+## Hittar du stavfel eller annat?
+Det är svårt att skriva bra instruktioner för nya kartritare när man själv har ritat kartor under flera år. Vi försöker skriva enkelt, tydligt och korrekt men lyckas kanske inte alltid. Därför är vi tacksamma för all hjälp att förbättra sidorna, oavsett om det är att påpeka stavfel, rätta särskrivningar eller bidra med ny information.
 
-- Peter Kindström (webbplats, struktur & texter)
-- Joakim Fors (skärmbild)
+Enklast bidrar du via ett [förslag på Github](https://github.com/mekanoid/OSMstart/issues). Alternativt skickar du ett e-brev till 'osm snabel-a infolagret punkt se'. Vill du göra ett större bidrag kan du även [skapa en egen version](https://github.com/mekanoid/OSMstart/fork) på Github och be oss lägga in den.
 
