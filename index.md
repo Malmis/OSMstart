@@ -2,7 +2,7 @@
 Title: Hem
 Description: Startsida för Kom igång med OpenStreetMap
 Author: Peter Kindström
-Date: 2013-07-19
+Date: 2013-11-02
 Robots: index,follow
 */
 
