@@ -20,7 +20,7 @@ Lite förenklat kan man säga att du kommer igång med kartritningen genom dessa
 /* 4. [Samla in](4.samla) eget underlag för kartritningen */
 
 På den här webbplatsen ska vi lära dig mer om vart och ett av dessa steg, så att du sen på egen hand ska kunna ändra och lägga till i kartan.
-
+Under 2013-2014 får OpenStreetMaps webbplats (äntligen) ett förbättrat utseende och mer funktioner. Tyvärr kan det innebära att våra bilder här ibland är gamla och inaktuella. Vi hoppas du har överseende med det.
 
 ## Hittar du stavfel eller annat?
 Det är svårt att skriva bra instruktioner för nya kartritare när man själv har ritat kartor under flera år. Vi försöker skriva enkelt, tydligt och korrekt men lyckas kanske inte alltid. Därför är vi tacksamma för all hjälp att förbättra sidorna, oavsett om det är att påpeka stavfel, rätta särskrivningar eller bidra med ny information.
